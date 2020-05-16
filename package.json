@@ -1,0 +1,36 @@
+{
+  "name": "react-blur-nav",
+  "version": "1.0.0",
+  "description": "An auto-hiding top navigation bar component for React!",
+  "main": "TopNav.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krharsh17/react-blur-nav.git"
+  },
+  "keywords": [
+    "react",
+    "blur",
+    "nav",
+    "component",
+    "ui",
+    "top",
+    "bar",
+    "navbar",
+    "topnav",
+    "topbar"
+  ],
+  "author": "Kumar Harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krharsh17/react-blur-nav/issues"
+  },
+  "homepage": "https://github.com/krharsh17/react-blur-nav#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-transition-group": "^4.4.1",
+    "styled-components": "^5.1.0"
+  }
+}
