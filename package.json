@@ -1,6 +1,6 @@
 {
   "name": "react-blur-nav",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "An auto-hiding top navigation bar component for React!",
   "main": "TopNav.js",
   "scripts": {
